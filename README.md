@@ -1,2 +1,17 @@
-# EshokairAcademy-Apps
-This repository for all Eshokair-Academy Applications  documents
+# E. Shokair Academy - Eshokair Apps Project
+
+هذا المستودع هو المرجع البرمجي والتعليمي لمشروع **Eshokair Apps**، والذي يهدف إلى بناء تطبيقات ويب متكاملة باستخدام Oracle APEX بتقنية "أقل كود" (Low-Code)[cite: 2]. 
+
+## محتويات المشروع:
+- **التصميم:** أسس تصميم قواعد البيانات، الـ Views، والـ Lookups[cite: 2].
+- **البرمجة:** كيفية بناء Global Items، والمصادقة (Authentication)، والـ UI/UX[cite: 2].
+- **الهدف:** رفع المهارات العملية وبناء منظومة متكاملة تشمل (المبيعات، المخزون، الشؤون الإدارية)[cite: 2].
+
+## قائمة الفيديوهات التعليمية:
+* [المقدمة - Project Overview](رابط_الفيديو_هنا)[cite: 2]
+* [استعراض قاعدة البيانات - Database Overview](رابط_الفيديو_هنا)[cite: 2]
+* [المصادقة - Authentications](رابط_الفيديو_هنا)[cite: 2]
+* [واجهات الصفحات - UI & CSS/JS](رابط_الفيديو_هنا)[cite: 2]
+
+---
+*مشروع E. Shokair Academy - تطوير برمجيات بأسلوب عملي واحترافي.*
